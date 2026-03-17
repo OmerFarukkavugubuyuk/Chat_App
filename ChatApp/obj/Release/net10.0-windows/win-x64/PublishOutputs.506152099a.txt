@@ -1,0 +1,2 @@
+C:\Users\omrkv\source\repos\chat\publish\ChatApp.pdb
+C:\Users\omrkv\source\repos\chat\publish\ChatApp.exe
